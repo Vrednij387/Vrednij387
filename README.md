@@ -58,7 +58,7 @@
 
 **`> frontend`**
 
-![React](https://img.shields.io/badge/React-0fbeff?style=for-the-badge&logo=react&logoColor=0d1117&labelColor=0d1117)
+![React](https://img.shields.io/badge/React-0fbeff?style=for-the-badge&logo=react&logoColor=0fbeff&labelColor=0d1117)
 ![Next.js](https://img.shields.io/badge/Next.js-0fbeff?style=for-the-badge&logo=nextdotjs&logoColor=0fbeff&labelColor=0d1117)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0fbeff?style=for-the-badge&logo=typescript&logoColor=0fbeff&labelColor=0d1117)
 ![Tailwind](https://img.shields.io/badge/Tailwind-0fbeff?style=for-the-badge&logo=tailwindcss&logoColor=0fbeff&labelColor=0d1117)
