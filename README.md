@@ -1,36 +1,50 @@
 <div align="center">
 
 <!-- Header -->
+```
+  ██╗   ██╗██████╗ ███████╗██████╗ ███╗   ██╗██╗     ██╗
+  ██║   ██║██╔══██╗██╔════╝██╔══██╗████╗  ██║██║     ██║
+  ██║   ██║██████╔╝█████╗  ██║  ██║██╔██╗ ██║██║     ██║
+  ╚██╗ ██╔╝██╔══██╗██╔══╝  ██║  ██║██║╚██╗██║██║██   ██║
+   ╚████╔╝ ██║  ██║███████╗██████╔╝██║ ╚████║██║╚█████╔╝
+    ╚═══╝  ╚═╝  ╚═╝╚══════╝╚═════╝ ╚═╝  ╚═══╝╚═╝ ╚════╝
+```
+
 <a href="https://vrednij.cat">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=0FBEFF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=%24+whoami;Vrednij+%E2%80%94+Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=0FBEFF&center=true&vCenter=true&repeat=true&width=600&height=40&lines=%24+ssh+vrednij%40vrednij.cat;Connection+established." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Vrednij387&style=for-the-badge&color=0fbeff&labelColor=0d1117&label=VIEWS" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=Vrednij387&style=for-the-badge&color=0fbeff&labelColor=0d1117&label=%E2%96%88+VIEWS" alt="views"/>
 
 <br/><br/>
 
-<!-- About -->
+<!-- About: boot sequence -->
 
 ```
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   $ cat /etc/vrednij                                         │
-│                                                              │
-│   > Full-Stack Developer & Engineer                          │
-│   > Building things that work — and look good doing it       │
-│                                                              │
-│   // stack    → Next.js, React, TypeScript, Python           │
-│   // focus    → web apps, APIs, automation                   │
-│   // site     → vrednij.cat                                  │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════╗
+║  VREDNIJ SYSTEM v2.0                                         ║
+║  ════════════════════════════════════════════════════════════ ║
+║                                                              ║
+║  [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■] 100%  BOOT OK        ║
+║                                                              ║
+║  > Loading modules...                                        ║
+║  [OK] Full-Stack Developer & Engineer                        ║
+║  [OK] Building web apps, APIs & automation for business      ║
+║  [OK] Available for commercial & freelance projects          ║
+║                                                              ║
+║  // stack    → Next.js · React · TypeScript · Python         ║
+║  // focus    → web apps · APIs · automation · bots           ║
+║  // site     → vrednij.cat                                   ║
+║  // status   → open for work                                 ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
 
 <div align="center">
 
@@ -61,7 +75,7 @@
 
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
 
 <div align="center">
 
@@ -76,54 +90,34 @@
 <div align="center">
 
 ```
-┌─ projects ──────────────────────────────────────────────────┐
+┌──────────────────────────────────────────────────────────────┐
+│  $ ls ./client-work                                          │
 │                                                              │
-│  [01] Anime/Manga Platform                                   │
+│  Делаю автоматизацию и веб-решения для бизнеса.              │
+│  Проекты на заказ — от лендинга до полноценной CRM.          │
+│                                                              │
+│  ──────────────────────────────────────────────────────────── │
+│                                                              │
+│  [01] Anime/Manga Platform                      [commercial] │
 │       Next.js · React · TypeScript · Prisma · Stripe         │
 │       Socket.io · real-time · payments                       │
+│       → Full-stack платформа с подпиской и стримингом         │
 │                                                              │
-│  [02] Business CRM System                                    │
+│  [02] Business CRM System                       [commercial] │
 │       Next.js · Prisma · JWT · Telegram Bot                  │
-│       payment integrations · client project                  │
+│       → CRM для клиента: платежи, аналитика, бот-нотификации │
 │                                                              │
 │  [03] sc-file-mod — asset converter          [open source]   │
 │       Python · PyInstaller · GitHub Actions                  │
+│       → Утилита для конвертации игровых ассетов               │
 │                                                              │
+│  $ _                                                         │
 └──────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
----
-
-<div align="center">
-
-### `// stats`
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vrednij387&show_icons=true&border_color=30363d&bg_color=0d1117&title_color=0fbeff&text_color=c9d1d9&icon_color=c83cff&hide_border=false&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrednij387&layout=compact&border_color=30363d&bg_color=0d1117&title_color=0fbeff&text_color=c9d1d9&icon_color=c83cff&hide_border=false" />
-
-<br/>
-
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vrednij387&border=30363d&background=0d1117&stroke=30363d&ring=0fbeff&fire=c83cff&currStreakLabel=0fbeff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
-
-</div>
-
----
-
-<div align="center">
-
-### `// snake`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vrednij387/Vrednij387/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vrednij387/Vrednij387/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Vrednij387/Vrednij387/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
 
 <div align="center">
 
@@ -131,6 +125,6 @@
 
 [![Website](https://img.shields.io/badge/vrednij.cat-0fbeff?style=for-the-badge&logo=googlechrome&logoColor=0fbeff&labelColor=0d1117)](https://vrednij.cat)
 [![GitHub](https://img.shields.io/badge/GitHub-c83cff?style=for-the-badge&logo=github&logoColor=c83cff&labelColor=0d1117)](https://github.com/Vrednij387)
-[![Telegram](https://img.shields.io/badge/Telegram-0fbeff?style=for-the-badge&logo=telegram&logoColor=0fbeff&labelColor=0d1117)](https://t.me/vrednij_cat)
+[![Telegram](https://img.shields.io/badge/Telegram-0fbeff?style=for-the-badge&logo=telegram&logoColor=0fbeff&labelColor=0d1117)](https://t.me/vrednij_)
 
 </div>
