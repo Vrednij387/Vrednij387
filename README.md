@@ -129,6 +129,6 @@ $ systemctl status vrednij-projects
 
 [![Website](https://img.shields.io/badge/vrednij.cat-0fbeff?style=for-the-badge&logo=googlechrome&logoColor=0fbeff&labelColor=0d1117)](https://vrednij.cat)
 [![GitHub](https://img.shields.io/badge/GitHub-c83cff?style=for-the-badge&logo=github&logoColor=c83cff&labelColor=0d1117)](https://github.com/Vrednij387)
-[![Telegram](https://img.shields.io/badge/Telegram-0fbeff?style=for-the-badge&logo=telegram&logoColor=0fbeff&labelColor=0d1117)](https://t.me/vrednij_)
+[![Telegram](https://img.shields.io/badge/Telegram-0fbeff?style=for-the-badge&logo=telegram&logoColor=0fbeff&labelColor=0d1117)](https://t.me/vrednij)
 
 </div>
