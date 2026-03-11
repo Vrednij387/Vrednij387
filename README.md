@@ -31,11 +31,17 @@
 ║                                                              ║
 ║  > Loading modules...                                        ║
 ║  [OK] Full-Stack Developer & Engineer                        ║
-║  [OK] Building web apps, APIs & automation for business      ║
 ║  [OK] Available for commercial & freelance projects          ║
 ║                                                              ║
+║  > cat services.txt                                          ║
+║  • Сайты под заказ — лендинги, корпоративные, веб-приложения ║
+║  • CRM-системы и админ-панели для бизнеса                    ║
+║  • Telegram-боты: автоматизация, уведомления, интеграции     ║
+║  • API и backend-сервисы                                     ║
+║  • Автоматизация бизнес-процессов под ключ                   ║
+║                                                              ║
 ║  // stack    → Next.js · React · TypeScript · Python         ║
-║  // focus    → web apps · APIs · automation · bots           ║
+║  // focus    → web · CRM · bots · automation                 ║
 ║  // site     → vrednij.cat                                   ║
 ║  // status   → open for work                                 ║
 ║                                                              ║
