@@ -34,11 +34,11 @@
 ║  [OK] Available for commercial & freelance projects          ║
 ║                                                              ║
 ║  > cat services.txt                                          ║
-║  • Сайты под заказ — лендинги, корпоративные, веб-приложения ║
-║  • CRM-системы и админ-панели для бизнеса                    ║
-║  • Telegram-боты: автоматизация, уведомления, интеграции     ║
-║  • API и backend-сервисы                                     ║
-║  • Автоматизация бизнес-процессов под ключ                   ║
+║  • Custom websites — landing pages, corporate, web apps      ║
+║  • CRM systems & admin panels for business                   ║
+║  • Telegram bots: automation, notifications, integrations    ║
+║  • APIs & backend services                                   ║
+║  • End-to-end business process automation                    ║
 ║                                                              ║
 ║  // stack    → Next.js · React · TypeScript · Python         ║
 ║  // focus    → web · CRM · bots · automation                 ║
