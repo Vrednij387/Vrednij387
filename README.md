@@ -78,6 +78,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-ffffff?style=for-the-badge&logo=githubactions&logoColor=ffffff&labelColor=0d1117)
 ![Docker](https://img.shields.io/badge/Docker-ffffff?style=for-the-badge&logo=docker&logoColor=ffffff&labelColor=0d1117)
 ![Linux](https://img.shields.io/badge/Linux-ffffff?style=for-the-badge&logo=linux&logoColor=ffffff&labelColor=0d1117)
+![Bunny CDN](https://img.shields.io/badge/Bunny_CDN-ffffff?style=for-the-badge&logo=bunnynet&logoColor=ffffff&labelColor=0d1117)
+![Proxy](https://img.shields.io/badge/Proxy-ffffff?style=for-the-badge&logo=nginx&logoColor=ffffff&labelColor=0d1117)
 
 </div>
 
