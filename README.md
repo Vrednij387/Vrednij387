@@ -96,29 +96,29 @@
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────────────────┐
-│  $ ls ./client-work                                          │
-│                                                              │
-│  Делаю автоматизацию и веб-решения для бизнеса.              │
-│  Проекты на заказ — от лендинга до полноценной CRM.          │
-│                                                              │
-│  ──────────────────────────────────────────────────────────── │
-│                                                              │
-│  [01] Anime/Manga Platform                      [commercial] │
-│       Next.js · React · TypeScript · Prisma · Stripe         │
-│       Socket.io · real-time · payments                       │
-│       → Full-stack платформа с подпиской и стримингом         │
-│                                                              │
-│  [02] Business CRM System                       [commercial] │
-│       Next.js · Prisma · JWT · Telegram Bot                  │
-│       → CRM для клиента: платежи, аналитика, бот-нотификации │
-│                                                              │
-│  [03] sc-file-mod — asset converter          [open source]   │
-│       Python · PyInstaller · GitHub Actions                  │
-│       → Утилита для конвертации игровых ассетов               │
-│                                                              │
-│  $ _                                                         │
-└──────────────────────────────────────────────────────────────┘
+$ systemctl status vrednij-projects
+
+● vrednij-projects.service — Project Portfolio
+  Loaded: loaded (/etc/vrednij/projects.conf; enabled)
+  Active: active (running)
+
+  PID   SERVICE              STATUS       TYPE
+  ───── ──────────────────── ──────────── ──────────────
+  1337  anime-platform       ● deployed   commercial
+        Next.js · React · TypeScript · Prisma · Stripe
+        └─ Платформа с подпиской, стримингом и real-time
+
+  1338  business-crm         ● deployed   commercial
+        Next.js · Prisma · JWT · Telegram Bot
+        └─ CRM: платежи, аналитика, бот-нотификации
+
+  1339  sc-file-mod          ● public     open-source
+        Python · PyInstaller · GitHub Actions
+        └─ Утилита для конвертации игровых ассетов
+
+  ─────────────────────────────────────────────────────
+  Tasks: 3 (active)    Memory: ██████████░░ 83%
+  Uptime: 2y+          Status: accepting new projects
 ```
 
 </div>
