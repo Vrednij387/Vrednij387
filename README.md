@@ -78,8 +78,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-ffffff?style=for-the-badge&logo=githubactions&logoColor=ffffff&labelColor=0d1117)
 ![Docker](https://img.shields.io/badge/Docker-ffffff?style=for-the-badge&logo=docker&logoColor=ffffff&labelColor=0d1117)
 ![Linux](https://img.shields.io/badge/Linux-ffffff?style=for-the-badge&logo=linux&logoColor=ffffff&labelColor=0d1117)
-![Bunny CDN](https://img.shields.io/badge/Bunny_CDN-ffffff?style=for-the-badge&labelColor=0d1117)
-![Proxy](https://img.shields.io/badge/Proxy-ffffff?style=for-the-badge&logo=nginx&logoColor=ffffff&labelColor=0d1117)
+![Bunny CDN](https://img.shields.io/badge/Bunny_CDN-ffffff?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxlbGxpcHNlIGN4PSIxMiIgY3k9IjE2IiByeD0iNSIgcnk9IjQiLz48ZWxsaXBzZSBjeD0iOSIgY3k9IjUiIHJ4PSIyIiByeT0iNSIvPjxlbGxpcHNlIGN4PSIxNSIgY3k9IjUiIHJ4PSIyIiByeT0iNSIvPjwvc3ZnPgo=&labelColor=0d1117)
+![Proxy](https://img.shields.io/badge/Proxy-ffffff?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjYiIGN5PSIxMiIgcj0iMyIvPjxjaXJjbGUgY3g9IjE4IiBjeT0iNiIgcj0iMyIvPjxjaXJjbGUgY3g9IjE4IiBjeT0iMTgiIHI9IjMiLz48cGF0aCBkPSJNOSAxMUwxNSA3TTkgMTNMMTUgMTciIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIvPjwvc3ZnPgo=&labelColor=0d1117)
 
 </div>
 
