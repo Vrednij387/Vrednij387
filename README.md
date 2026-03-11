@@ -87,9 +87,7 @@
 
 ### `// projects`
 
-<a href="https://github.com/Vrednij387/-sc-file-mod">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vrednij387&repo=-sc-file-mod&border_color=30363d&bg_color=0d1117&title_color=0fbeff&text_color=c9d1d9&icon_color=c83cff" />
-</a>
+<img src="https://media1.tenor.com/m/FcA59Dz2qf0AAAAC/watch-dogs2-dedsec.gif" width="400" alt="DedSec" />
 
 </div>
 
@@ -106,15 +104,15 @@ $ systemctl status vrednij-projects
   ───── ──────────────────── ──────────── ──────────────
   1337  anime-platform       ● deployed   commercial
         Next.js · React · TypeScript · Prisma · Stripe
-        └─ Платформа с подпиской, стримингом и real-time
+        └─ Streaming platform with subscriptions & real-time
 
   1338  business-crm         ● deployed   commercial
         Next.js · Prisma · JWT · Telegram Bot
-        └─ CRM: платежи, аналитика, бот-нотификации
+        └─ CRM: payments, analytics, bot notifications
 
-  1339  sc-file-mod          ● public     open-source
-        Python · PyInstaller · GitHub Actions
-        └─ Утилита для конвертации игровых ассетов
+  1339  ctos                 ● deployed   commercial
+        Next.js · TypeScript · Prisma · WebSocket
+        └─ Custom surveillance & monitoring dashboard
 
   ─────────────────────────────────────────────────────
   Tasks: 3 (active)    Memory: ██████████░░ 83%
